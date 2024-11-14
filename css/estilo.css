@@ -65,7 +65,7 @@ p{
 	background: url("../imas/pleca.jpg");
 	background-size: auto 100%;
 	background-position: right;
-	background-color: #1b4a47;
+	background-color: #ad3658;
 	background-repeat: no-repeat;
 	height: 50px;
 	color: white;
@@ -126,7 +126,7 @@ a:link, a:visited, a:active {
 #pleca_botones{
 	width: 100%;
 	padding: 10px;
-	background: linear-gradient(to right, rgb(27,74,71), rgb(70,138,139));
+	background: linear-gradient(to right, rgb(98,21,45), rgb(156, 52, 85));
 	position: fixed;
 	bottom:0px;
 }
@@ -154,7 +154,7 @@ hr{
 
 
 .indice {
-	background: #C9E3F7;
+	background: #ff9ec2;
 	padding: 20px;
 	color: #02164E;
 }
