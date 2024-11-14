@@ -133,14 +133,14 @@ a:link, a:visited, a:active {
 
 .tx-figura{
 	text-align: center;
-	color:#0071B9;
+	color:#ce5a84;
 	margin-top: 10px;
 }
 
 
 .actividad{
-	background: #E8F3FC;
-	border: dotted 2px #0071B9;
+	background: #c4b3b9;
+	border: dotted 2px #ce5a84;
 	color: #01184D;
 	width: 100%;
 	max-width: 800px;
@@ -149,12 +149,12 @@ a:link, a:visited, a:active {
 }
 
 hr{ 
-	 border: 1px solid #0071B9;
+	 border: 1px solid #ce5a84;
 }
 
 
 .indice {
-	background: #ff9ec2;
+	background: #cdacb8;
 	padding: 20px;
 	color: #02164E;
 }
