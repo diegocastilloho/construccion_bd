@@ -29,7 +29,7 @@ body{
 	text-align: center;
 	padding-bottom: 20px;
 	font-size: 22px;
-	color: #02164E;
+	color: #440015;
 }
 
 
@@ -92,13 +92,13 @@ p{
 }
 
 
-h3{
-	color:#021B6A;
+h3{ 
+	color:#881132;
 	margin-top: 32px;
 }
 
 ol li::marker, ul li::marker {
-    color: #0071B9;
+    color: #c65880;
 	font-weight: bold;
 }
 
@@ -114,11 +114,11 @@ a:link, a:visited, a:active {
 }
 
 .bot-menu:hover{
-	color:#00BAE0;
+	color:#f786b0;
 }
 
 .titulin{
-	color:#021B6A;
+	color:#66011d;
 	font-size: 22px;
 	margin-top: 30px;
 }
@@ -141,7 +141,7 @@ a:link, a:visited, a:active {
 .actividad{
 	background: #c4b3b9;
 	border: dotted 2px #ce5a84;
-	color: #01184D;
+	color: #530118;
 	width: 100%;
 	max-width: 800px;
 	padding:20px;
@@ -156,5 +156,5 @@ hr{
 .indice {
 	background: #cdacb8;
 	padding: 20px;
-	color: #02164E;
+	color: #4e0216;
 }
