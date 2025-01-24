@@ -139,7 +139,7 @@ a:link, a:visited, a:active {
 
 
 .actividad{
-	background: #d64c91;
+	background: #d19eb8;
 	border: dotted 2px #ce5a84;
 	color: #000000;
 	width: 100%;
@@ -154,7 +154,8 @@ hr{
 
 
 .indice {
-	background: #d64c91;
+	background: #d19eb8;
 	padding: 20px;
 	color: rgb(92, 4, 28);
 }
+
