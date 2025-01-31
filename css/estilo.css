@@ -67,9 +67,13 @@ p{
 	background-position: right;
 	background-color: #601534;
 	background-repeat: no-repeat;
-	height: 50px;
+	height: auto;
 	color: white;
-	font-size: 20px;
+	font-weight: bold;
+	white-space: normal;
+	word-wrap: break-word;
+	font-size: clamp(17px, 2vw, 26px);
+	text-align: left;
 }
 
 
