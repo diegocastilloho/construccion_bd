@@ -28,7 +28,7 @@ body{
 #inicio{
 	text-align: center;
 	padding-bottom: 20px;
-	font-size: 22px;
+	font-size: 26px;
 	color: #440015;
 }
 
@@ -67,13 +67,26 @@ p{
 	background-position: right;
 	background-color: #601534;
 	background-repeat: no-repeat;
+	height: 50px;
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+
+.pleca-temas{
+	background: url("../imas/pleca.jpg");
+	background-size: auto 100%;
+	background-position: right;
+	background-color: #601534;
+	background-repeat: no-repeat;
 	height: auto;
 	color: white;
 	font-weight: bold;
 	white-space: normal;
 	word-wrap: break-word;
-	font-size: clamp(17px, 2vw, 26px);
-	text-align: left;
+	font-size: clamp(20px, 2vw, 25px);
+	padding: 12px;
 }
 
 
